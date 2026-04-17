@@ -1,6 +1,6 @@
 # DreamBooth Fine-Tuning Practice with Stable Diffusion v1.5 + LoRA
 
-This repository contains a compact DreamBooth-style fine-tuning pipeline for subject-driven image generation using **Stable Diffusion v1.5** and **LoRA**. The project was developed for a course assignment whose goal is to complete the full workflow of **data collection → preprocessing → fine-tuning → generation → analysis** on a small personalized subject dataset.
+This repository contains a compact DreamBooth-style fine-tuning pipeline for subject-driven image generation using **Stable Diffusion v1.5** and **LoRA**. The project was developed to complete the full workflow of **data collection → preprocessing → fine-tuning → generation → analysis** on a small personalized subject dataset.
 
 The subject used in this project is a **dragon plush toy**, represented during training with the identifier-token prompt:
 
