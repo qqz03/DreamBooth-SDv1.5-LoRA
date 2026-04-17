@@ -1,0 +1,17 @@
+task,prompt,MAD,LPIPS
+A_subject_fidelity,subj_beach,0.2671,0.5686
+A_subject_fidelity,subj_city,0.2813,0.5423
+A_subject_fidelity,subj_forest,0.2792,0.5611
+A_subject_fidelity,subj_snow,0.3165,0.6376
+A_subject_fidelity,subj_table,0.2425,0.4924
+B_prompt_fidelity,prmpt_anime,0.2806,0.3995
+B_prompt_fidelity,prmpt_hat,0.3013,0.4237
+B_prompt_fidelity,prmpt_lego,0.2769,0.5293
+B_prompt_fidelity,prmpt_neon,0.2472,0.4628
+B_prompt_fidelity,prmpt_oil,0.2622,0.399
+B_prompt_fidelity,prmpt_rain,0.3057,0.5199
+B_prompt_fidelity,prmpt_scarf,0.3001,0.413
+C_prior_preservation,prior_1,0.2449,0.6477
+C_prior_preservation,prior_2,0.3408,0.7278
+C_prior_preservation,prior_3,0.2278,0.67
+C_prior_preservation,prior_4,0.2602,0.63
