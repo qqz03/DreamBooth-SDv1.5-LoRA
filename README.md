@@ -51,7 +51,6 @@ This dataset repository contains:
 
 - the **original training images**,
 - the **preprocessed 512×512 training images**,
-- the **generated evaluation images**,
 - the **200 class images** used for prior preservation.
 
 ---
